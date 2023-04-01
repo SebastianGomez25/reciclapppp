@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReciclaApp</string>
+    <string name="titulo1">Reciclemos cuidemos el planeta</string>
+    <string name="variante1">Sigiuente</string>
+    <string name="tercertitulo">Aceptar</string>
+    <string name="reciclo">Te gusta reciclar</string>
+    <string name="cuida">Cuidemos el planeta</string>
+    <string name="arbol">No tales arboles</string>
+    <string name="basura">No arrojes basura</string>
+    <string name="plastic">Separa, Recicla,Reutiliza</string>
+    <string name="plasticos">Cuida la tierra</string>
+</resources>
